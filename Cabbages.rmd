@@ -64,10 +64,9 @@ From the numerical information that we see the first quantile from c52 data is a
 t.test(VitC~Cult,data=veggy)
 ```
 
-the p value is .00000003405. That is a really small number. With that information it gave us the chances like this is extremely small number so there is no way that can happen on accident, based on the statistics. 
+the p value is .00000003405. That is a really small number. With that information it gave us the chances like this is extremely small number so there is no way that can happen on accident, based on the statistics. So vitamin C produced by the c52 method is way better than the c39 method. 
 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
-
 

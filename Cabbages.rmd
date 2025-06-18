@@ -64,7 +64,7 @@ From the numerical information that we see the first quantile from c52 data is a
 t.test(VitC~Cult,data=veggy)
 ```
 
-the p value is .00000003405. That is a really small number.
+the p value is .00000003405. That is a really small number. With that information it gave us the chances like this is extremely small number so there is no way that can happen on accident, based on the statistics. 
 
 # Discussion and Conclusion
 
